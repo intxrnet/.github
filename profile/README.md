@@ -1,5 +1,5 @@
 # intxrnet
 
-The intxrnet is a free repository of completely local web apps.
+The [intxrnet](https://www.intxr.net) is a free repository of entirely local web apps.
 
 Under [its-ours](https://its-ours.org) license.
